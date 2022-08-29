@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uddinaq also known as Aqeel Uddin.
 - 👀 I’m interested in technology and learning new languages that can further my experience in code.
-- 🌱 I’m currently learning the language C++. This is a beginner coding language that most people learn that can futher enhance coding sklls for the future.
+- 🌱 I’m currently learning the language C++. This is a beginner coding language that most people learn that can futher enhance their coding skils.
 - 💞️ I’m looking to collaborate on differnt available projects with other peers to gain experience with collaboration. 
 - 📫 How to reach me ... aqeeluddin15@gmail.com
 <!---
